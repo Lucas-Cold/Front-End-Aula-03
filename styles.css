@@ -1,0 +1,24 @@
+:root{
+    background: rgb(202,209,235);
+    background: linear-gradient(0deg, rgba(202,209,235,1) 70%, rgba(43,44,48,1) 95%)fixed;
+    background-repeat: no-repeat;
+}
+main {
+    background-color: #778899;
+    border-radius: 10px;
+    margin: 15% 30%;
+    padding: 1% 5% 3% 5%;
+    box-shadow: 1px 1px black,5px 5px #708090, 6px 6px black;
+    font: italic 1.2em "Fira Sans", serif;
+}
+textarea{
+    border-radius: 10px;
+    margin-left: 11%;
+}
+button{
+    margin-inline-start: 40%;
+    border-radius: 5px;
+}
+input{
+    border-radius: 5px;
+}
